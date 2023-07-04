@@ -1,0 +1,2 @@
+10.0.1.132 ansible_ssh_user=ubuntu ansible_ssh_private_key_file="/home/ubuntu/putty.pem"
+10.0.2.27 ansible_ssh_user=ubuntu ansible_ssh_private_key_file="/home/ubuntu/putty.pem"
